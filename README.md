@@ -13,3 +13,25 @@
 <li>Favourites Feature with Client-side Storage: Implement a feature allowing users to add Pokémon to their favorites list. Utilize client-side storage technologies like cookies, local storage, or session storage to persist user favorites across browser sessions.</li>
 <li>Third-Party API Integration: Augment the site with data from a third-party API, specifically the PokeAPI. Fetch additional Pokémon-related data from the PokeAPI and display it on the page alongside existing content.</li>
 </ul>
+
+<h3>Git Clone</h3>
+
+Copy the respository URL and open the terminal in VScode:
+
+    git clone https://github.com/....
+
+<h3>Start the program</h3>
+
+After clone into your own directory, open the direct repository that contains the codes of the program
+
+**Alernatively**
+
+    cd /path/to/project
+
+If the right directory is opened, open the terminal and install npm by running:
+
+    npm install
+
+To run the program, run the following in the terminal after npm sucessfully installed:
+
+    npm run dev
